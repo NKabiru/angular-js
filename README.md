@@ -1,4 +1,4 @@
-# Learning AngularJS 1.0
+# Learning AngularJS 1.x
 
 Resources used:
 * [Thinkster.io - A better way to learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs)
